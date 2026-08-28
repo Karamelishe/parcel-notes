@@ -1,0 +1,17 @@
+[
+  {
+    "id": "PN-1001",
+    "status": "delivered",
+    "destination": "North depot"
+  },
+  {
+    "id": "PN-1002",
+    "status": "in_transit",
+    "destination": "East depot"
+  },
+  {
+    "id": "PN-1003",
+    "status": "in_transit",
+    "destination": "West depot"
+  }
+]
