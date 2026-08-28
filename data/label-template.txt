@@ -1,0 +1,3 @@
+PARCEL NOTES
+Route: {route}
+Shipment: {parcel_id}
